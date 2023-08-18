@@ -664,11 +664,6 @@ onClick = {(data) => {
     console.log('Data from tile', data);
 }}
 ```
-
-For playground visit:
-
-> http://akshay5995.github.io/powerbi-report-component
-
 You can find out how to generate token for your report using Powershell from [this video](https://www.youtube.com/watch?v=4KuyPNtVijo).
 
 ### Alternatives
