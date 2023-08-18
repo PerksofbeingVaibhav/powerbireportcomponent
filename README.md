@@ -9,7 +9,7 @@ It's a minimalistic React component for embedding a Microsoft PowerBI report, da
 
 ## Installation
 
-`npm i powerbi-report-component`
+`npm i powerbireportcomponent`
 
 ## Usage for Report
 
